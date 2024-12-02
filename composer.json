@@ -1,0 +1,16 @@
+{
+    "name": "le_bucket/f3",
+    "description": "This will be a project in which I learn the F3 microframework enough to be be able to finish my school project. I also have to incorporate other elements such as ( but could change in the future ) APCu chaching, pgbouncer for conneciton pooling and then there is a beautiful bonus that could be to have partial file compression with libraries such as Zstd or l4z. Would be great and fun.",
+    "autoload": {
+        "psr-4": {
+            "LeBucket\\F3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Heuvel",
+            "email": "thedummy754@gmail.com"
+        }
+    ],
+    "require": {}
+}
